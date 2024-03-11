@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Add this inside src/App.css */
+.light {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.App-header {
+  margin: 40px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
